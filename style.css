@@ -1,0 +1,203 @@
+
+hr {
+    margin: 2rem auto;
+    background-color: antiquewhite;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    border-color: grey;
+    width: 10%;
+}
+
+table {
+    background-color: antiquewhite;
+    margin: auto;
+    border: ridge 5px rgb(122, 98, 51);
+}
+
+p {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+}
+
+h2,h3,h4 {
+    border-bottom: 1px solid grey;
+    display: inline-block;
+    text-align: left;
+    padding-bottom: 20px;
+    margin: 50px auto;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+}
+
+th {
+    background-color: rgb(235, 182, 84);
+    border: ridge 5px rgb(122, 98, 51);
+}
+
+td {
+    padding: 10px;
+    text-align: left;
+   
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+button {
+    outline: none;
+    border: none;
+    margin: 10px;
+    background-color: white ;
+    border-radius: 50%;
+}
+
+button:hover {
+    padding: 10px;
+
+}
+
+.fa-envelope:hover {
+    color: red;
+    cursor:pointer;
+}
+
+footer {
+    text-align: center;
+    margin-bottom: 50px;
+    padding: 0 20px;
+}
+
+.sec {
+    background-color :antiquewhite; 
+    border: ridge 5px rgb(122, 98, 51);
+    padding: 20px 0;
+}   
+
+.right {
+    color: thistle;
+}
+
+/* Introduction */
+
+#My-photo {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 30px;
+    top: 67px;
+}
+
+.introduction {  
+    text-align: left; 
+}
+
+.first {
+    margin: 50px auto;
+    padding: 0 200px;
+}
+
+.first p,h3{
+    text-align: left;
+    margin: 0 0 8px;    
+}
+
+tr p{
+    margin: 0;
+}
+
+
+/* My skills */
+
+
+.skills {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+
+
+/* Skils Section Icons*/
+
+.HTML:hover {
+    color: orange;
+}
+
+.CSS:hover {
+    color: rgb(0, 174, 255)
+}
+
+.bootstrap:hover {
+    color: blueviolet;
+}
+
+.JS:hover {
+    color: rgba(187, 187, 36, 0.733);
+}
+
+.nodeJS:hover {
+    color:yellowgreen;
+}
+
+
+/* Hobbies */
+
+.hobbies {
+    text-align: center;
+    margin: 80px auto;
+}
+
+.hob {
+    margin: 50px 50px 150px;
+    padding: 0 200px;
+}
+
+.hobbie-odd {
+    float: left;
+    margin-right: 60px;
+}
+
+.hobbie-even {
+    float: right;
+    margin-left: 60px;
+}
+
+
+/* For JavaScript */
+
+.sec2 {
+    background-color: #023047; 
+    border: ridge 5px rgb(9, 1, 27);
+    padding: 20px 0;
+}   
+
+.table2 {
+    background-color: #023047;
+    border: ridge 5px rgb(9, 1, 27);
+}
+
+.th2 {
+    background-color: #14213d;
+    border: ridge 5px rgb(9, 1, 27);
+}
+
+.hr2 {
+    margin: 2rem auto;
+    background-color: #023047;;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    border-color: grey;
+    width: 10%;
+}
+
+.night-mode {
+    color: white;
+    background-color: black;
+}
+
+
+
