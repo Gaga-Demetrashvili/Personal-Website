@@ -310,6 +310,10 @@ tr p{
     .skills .row p {
         margin: 40px 0 0;
     }
+    
+    tr p {
+        margin: 0;
+    }
 
     .skills .row {
         align-items: center;
